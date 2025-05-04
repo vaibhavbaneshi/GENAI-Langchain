@@ -1,7 +1,7 @@
 langchain
 python-dotenv
 ipykernel
-langchain-community
+langchain_community
 pypdf
 bs4
 arxiv
@@ -34,3 +34,4 @@ langchain_ollama
 beautifulsoup4
 langserve
 sse_starlette
+streamlit
