@@ -22,7 +22,6 @@ duckduckgo_search
 pymupdf
 arxiv
 wikipedia
-mysql-connector-pythonc
 SQLAlchemy
 validators==0.28.1
 youtube_transcript_api
@@ -38,3 +37,4 @@ streamlit
 youtube-transcript-api
 huggingface_hub
 mysql-connector-python
+gradio
