@@ -38,3 +38,4 @@ youtube-transcript-api
 huggingface_hub
 mysql-connector-python
 gradio
+langchain_nvidia_ai_endpoints
