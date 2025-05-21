@@ -41,3 +41,6 @@ gradio
 langchain_nvidia_ai_endpoints
 crew
 crewai_tools
+pinecone
+pinecone-text
+pinecone-notebooks
