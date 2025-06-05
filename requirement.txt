@@ -44,3 +44,4 @@ crewai_tools
 pinecone
 pinecone-text
 pinecone-notebooks
+transformers
